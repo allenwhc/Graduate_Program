@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![Pinry](https://raw.github.com/dotcom900825/grad_project/master/xishi.jpg)
 
 Xi Shi is based on [Pinry](https://github.com/overshard/pinry/) project, which is a private, self-hosted, [Pinterest][0] inspired by [Wookmark][1] and
@@ -102,3 +103,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 [0]: http://pinterest.com/
 [1]: http://www.wookmark.com/
 [2]: https://www.google.com/search?q=deploy+django+production
+=======
+Graduate_Program
+================
+
+Online Trading
+>>>>>>> af0189502c5d667e96b99a83b470a722adf0df20
